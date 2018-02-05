@@ -1,16 +1,16 @@
 /**********************************************HEX GAME*********************************************************************/
-#include "Jouer.c" /*Le fichier Jouer.c Contient toutes les fonction utiliser et meme les include des bibliothéque
+#include "Jouer.c" /*Le fichier Jouer.c Contient toutes les fonction utiliser et meme les include des bibliothÃ©que
                      et d'autre fichier .h et .c*/
 #define Larg 1229 // La largeur de la fenetre declarer en define pour plus de controle
 #define Haut 768  // La Hauteur de la fenetre
 
 int main ( int argc, char** argv )
  {
-    /*************************************************Les Données**************************************************/
+    /*************************************************Les DonnÃ©es**************************************************/
 
 
     /*************Les Entier**********************/
-    //Le type Uint16 utiliser au lieu du type int pour assurer la portabilité de l'application
+    //Le type Uint16 utiliser au lieu du type int pour assurer la portabilitÃ© de l'application
     Uint16 flag=1 ;
     Uint16 i=0,j=0 ;
     Uint16 Test ;
