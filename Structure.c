@@ -1,4 +1,3 @@
-/*****************************Les Structure****************************/
 typedef enum Etat{
     Vide,Blanc,Noir
 
